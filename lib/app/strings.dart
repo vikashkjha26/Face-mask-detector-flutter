@@ -15,4 +15,4 @@ const String title = 'Face Mask Detection';
 const String fromGallery = "From Gallery";
 
 const String illustrator = "assets/images/illustrator.jpeg";
-const String urlString = "https://github.com/vikashkjha26";
+const String urlString = "https://github.com/vikashkjha26/Face-mask-detector-flutter";
